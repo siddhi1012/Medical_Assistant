@@ -92,3 +92,4 @@ Please open an issue first to discuss proposed changes.
 
 📜 License
 This project is licensed under the MIT License.
+

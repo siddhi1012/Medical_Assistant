@@ -51,7 +51,7 @@ medical-assistant/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/medical-assistant.git
+git clone https://github.com/siddhi1012/medical-assistant.git
 cd medical-assistant
 2️⃣ Install Dependencies
 bash
@@ -92,4 +92,5 @@ Please open an issue first to discuss proposed changes.
 
 📜 License
 This project is licensed under the MIT License.
+
 

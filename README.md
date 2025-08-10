@@ -1,4 +1,5 @@
 🩺 AI-Powered Medical Assistant
+
 An AI-powered medical assistant that can answer health-related queries, suggest possible conditions, and provide nutritional advice.
 It supports document upload (PDFs) and uses LLM-based retrieval with a vector database to give relevant answers.
 Deployed on Streamlit Cloud for easy access.
@@ -92,6 +93,7 @@ Please open an issue first to discuss proposed changes.
 
 📜 License
 This project is licensed under the MIT License.
+
 
 
 

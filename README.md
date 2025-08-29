@@ -31,7 +31,8 @@ Vector Database: Pinecone
 
 Programming Language: Python
 
-Deployment: Streamlit Cloud
+Deployment: Streamlit Cloud 
+
 
 
 

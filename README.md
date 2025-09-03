@@ -7,6 +7,8 @@ Deployed on Streamlit Cloud for easy access.
 🔗 Live Demo:
 https://medicalassistants.streamlit.app
 
+
+
 📌 Features
 💬 AI Chatbot for health-related questions.
 
@@ -32,6 +34,7 @@ Vector Database: Pinecone
 Programming Language: Python
 
 Deployment: Streamlit Cloud 
+
 
 
 

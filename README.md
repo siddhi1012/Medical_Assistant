@@ -4,7 +4,6 @@ An AI-powered medical assistant that can answer health-related queries, suggest 
 It supports document upload (PDFs) and uses LLM-based retrieval with a vector database to give relevant answers.
 Deployed on Streamlit Cloud for easy access.
 
-
 🔗 Live Demo:
 https://medicalassistants.streamlit.app
 
@@ -33,6 +32,7 @@ Vector Database: Pinecone
 Programming Language: Python
 
 Deployment: Streamlit Cloud 
+
 
 
 

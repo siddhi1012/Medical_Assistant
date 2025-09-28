@@ -1,4 +1,3 @@
-
 🩺 AI-Powered Medical Assistant
 
 An AI-powered medical assistant that can answer health-related queries, suggest possible conditions, and provide nutritional advice.
@@ -34,6 +33,7 @@ Vector Database: Pinecone
 Programming Language: Python
 
 Deployment: Streamlit Cloud 
+
 
 
 
